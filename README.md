@@ -1,5 +1,3 @@
-s
-
 # Bakestagram - a MERN APP
 
 This application will be a contain backend build in Node.JS, using Express and Mongo, and front-end built in React.js (hooks). The backend will contain most restfull routes; Get, Post, Put and Delete.
